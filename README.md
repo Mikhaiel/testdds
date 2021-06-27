@@ -10,7 +10,7 @@
 </p>
 </div>
 <p align="center">
-Created by <a href="https://github.com/Mikhaiel">Mikhaiel</a> to make it public
+Created by <a href="https://github.com/Mikhaiel">Mikhaiel</a>
     <br>
        | © |
         Reserved |

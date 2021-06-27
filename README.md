@@ -1,7 +1,7 @@
 ## MY PERSONAL WEBSITE
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/72667834?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/81913716?s=400&u=1904f397fa205f35448817c41d1e5b760c641210&v=4" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Jinnh🧞‍♂️" src="https://img.shields.io/badge/Jinnh🧞‍♂️-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>

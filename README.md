@@ -24,9 +24,9 @@ Created by <a href="https://github.com/Mikhaiel">Mikhaiel</a>
     <img src="https://img.shields.io/github/repo-size/Mikhaiel/Jinnh?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Mikhaiel/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mikhaiel?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mikhaiel/Jinnh/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mikhaiel/Jinnh?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mikhaiel/Jinnh/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mikhaiel/Jinnh?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mikhaiel/Jinnh/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mikhaiel/Jinnh?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Mikhaiel/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mikhaiel/Jinnh?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mikhaiel/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mikhaiel/Jinnh?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mikhaiel/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mikhaiel/Jinnh?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
